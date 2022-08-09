@@ -1,0 +1,19 @@
+{
+    "args": {
+        "Access-Control-Allow-Origin": "*"
+    },
+    "data": "",
+    "files": {},
+    "form": {},
+    "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Host": "httpbin.org",
+        "Postman-Token": "77240020-3679-4ca4-90fa-339ba190f6e8",
+        "User-Agent": "PostmanRuntime/7.29.2",
+        "X-Amzn-Trace-Id": "Root=1-62f14f5e-38209d92682dd81c33e0b454"
+    },
+    "json": null,
+    "origin": "46.98.150.228",
+    "url": "http://httpbin.org/delete?Access-Control-Allow-Origin=*"
+}
